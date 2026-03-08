@@ -1,6 +1,4 @@
-# rag_chatbot_POC
-Proof of Concept RAG Chatbot with HuggingFace and Streamlit
-
+# Rag Chatbot - Proof of Concept
 Tech used: Hugging Face, FAISS, Streamlit
 
 ## Getting Up and Running
@@ -15,3 +13,5 @@ Tech used: Hugging Face, FAISS, Streamlit
 3. On your host machine, connect via a web browser at:
 
        http://localhost:8501
+
+![Demo](README_assets/demo.gif)
