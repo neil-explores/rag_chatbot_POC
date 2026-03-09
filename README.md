@@ -17,4 +17,5 @@ Containerization software, like Docker Desktop or Podman Desktop.
 
        http://localhost:8501
 
+### GIF to Demonstrate Getting Up and Running:
 ![Demo](README_assets/demo.gif)
