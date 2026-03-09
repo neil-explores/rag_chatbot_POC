@@ -1,6 +1,9 @@
 # Rag Chatbot - Proof of Concept
 Tech used: Hugging Face, FAISS, Streamlit
 
+## Prereqs
+Containerization software, like Docker Desktop or Podman Desktop.
+
 ## Getting Up and Running
 1. `cd` into the project, build the image, and run the container
 
